@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/github-action-docker-test@v2
+uses: cblument/github-action-docker-test@v3
 with:
   who-to-greet: 'Mona the Octocat'
